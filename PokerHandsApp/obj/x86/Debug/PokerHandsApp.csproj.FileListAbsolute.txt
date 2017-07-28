@@ -1,0 +1,17 @@
+C:\Users\Jeremie Kipeleka\Documents\Computer science\UG2\AdvanceSoftwareDevelopment\AdvanceSoftwareDevelopment\LAB\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.csprojResolveAssemblyReference.cache
+C:\Users\Jeremie Kipeleka\Documents\Computer science\UG2\AdvanceSoftwareDevelopment\AdvanceSoftwareDevelopment\LAB\PokerHandsApplication\PokerHandsApp\PokerHandsApp\bin\Debug\PokerHandsApp.exe
+C:\Users\Jeremie Kipeleka\Documents\Computer science\UG2\AdvanceSoftwareDevelopment\AdvanceSoftwareDevelopment\LAB\PokerHandsApplication\PokerHandsApp\PokerHandsApp\bin\Debug\PokerHandsApp.pdb
+C:\Users\Jeremie Kipeleka\Documents\Computer science\UG2\AdvanceSoftwareDevelopment\AdvanceSoftwareDevelopment\LAB\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.exe
+C:\Users\Jeremie Kipeleka\Documents\Computer science\UG2\AdvanceSoftwareDevelopment\AdvanceSoftwareDevelopment\LAB\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.pdb
+D:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.exe
+D:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.pdb
+D:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\bin\Debug\PokerHandsApp.exe
+D:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\bin\Debug\PokerHandsApp.pdb
+D:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.exe
+E:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.pdb
+E:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\bin\Debug\PokerHandsApp.exe
+E:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\bin\Debug\PokerHandsApp.pdb
+E:\PokerHandsApplication\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.csprojResolveAssemblyReference.cache
+C:\Users\jeremie kipeleka\Github\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.exe
+C:\Users\jeremie kipeleka\Github\PokerHandsApp\PokerHandsApp\obj\x86\Debug\PokerHandsApp.pdb
